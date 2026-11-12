@@ -20,7 +20,7 @@ const WEBSITE_PIN = "131104";              // ← GANTI PIN
    2. NAMA PENERIMA
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    Nama yang muncul di halaman utama (hero).                      */
-const RECIPIENT_NAME = "salaa";           // ← GANTI NAMA
+const RECIPIENT_NAME = "Amam";           // ← GANTI NAMA
 
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
